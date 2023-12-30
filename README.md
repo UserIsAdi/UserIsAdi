@@ -1,34 +1,15 @@
-# NULL-MAN-WARAS
+# Adi's 👨‍💻
 
-**Hi, I'am Adi Aulia Rahman, Null-Man-Waras**
+Hello there! 👋 I'm Adi, an Indonesian enthusiast in the realm of programming, with a particular passion for backend development and fullstack development. Let me share a bit about myself.
 
-## Get Started / Gasak Coding:
+## About Me
+- 🌏 Based in Indonesia
+- 🎓 Graduated in Information Technology
+- 💲 Project make a Money
+- 👨‍💻 Work Hard and Work Smart
 
-1. Clone the repository / Mencuntan Repo Urang.
-   ```bash
-   git clone https://github.com/NULLNULL/NULL.git
-   ```
+```
+"Thirsty for Knowledge"
 
-2. Warning Information / Bemamai.
-    ```bash
-   if($hidup = sengsara){
-    return "tebas parang";
-    }else{
-    return "tetap sengsara"
-    }
-   ```
-
-4. Ide Brilliant / Menghalu.
-   "Apale?"
-
-## Contributors / Tukang Beban:
-
-- [Urang 1](link_to_profile)
-- [Urang 2](link_to_profile)
-
-## How to Contribute:
-1. Fork the repository.
-
-Let's code lincai Behabis, live bright! 🌟✨
-
-**Happy(!) Coding! 🚀💻**
+-adi ar.
+```
