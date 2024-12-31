@@ -10,4 +10,5 @@ Hello there! 👋 I'm Adi, an Indonesian enthusiast in the realm of programming,
 - 💲 Project make a Money
 - 👨‍💻 Work Hard and Work Smart
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiarhmn&show_icons=true&theme=transparent)](https://github.com/adiarhmn)
+[![Adi GitHub stats](https://github-readme-stats.vercel.app/api?username=adiarhmn&show_icons=true&theme=transparent)](https://github.com/adiarhmn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiarhmn&layout=compact)
